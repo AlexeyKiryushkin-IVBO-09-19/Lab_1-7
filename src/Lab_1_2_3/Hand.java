@@ -1,8 +1,8 @@
-package Task;
+package Lab_1_2_3;
 
-public class Leg {
+public class Hand {
     private int length;
-    Leg (int length) {
+    Hand (int length) {
         this.length = length;
     }
     public int getlength () {

@@ -1,4 +1,4 @@
-package Task;
+package Lab_1_2_3;
 
 public class CircleTest {
     public static void main(String[] args) {

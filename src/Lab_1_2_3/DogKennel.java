@@ -1,4 +1,4 @@
-package Task;
+package Lab_1_2_3;
 
 import java.util.ArrayList;
 import java.util.Scanner;
